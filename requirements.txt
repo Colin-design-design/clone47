@@ -1,0 +1,13 @@
+# Core packages used by the clon47 notebook
+google-generativeai
+pydantic
+python-docx
+jellyfish
+networkx
+nltk
+numpy
+matplotlib
+seaborn
+pandas
+ipykernel
+notebook
